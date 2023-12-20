@@ -1,0 +1,27 @@
+/* Define a CSS class for the table */
+table{
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    text-align: left;
+
+}
+
+/* Style the table headers */
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 10px;
+}
+
+/* Style the table rows */
+tr {
+    border-bottom: 1px solid #ddd;
+}
+
+/* Style table cells */
+td {
+    padding: 10px;
+}
+
